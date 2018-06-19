@@ -9,10 +9,7 @@ chmod +x uploader.sh && \
 ./uploader.sh
 ```
 
-KindleEar 上传教程：https://kindlefere.com/post/19.html  
+KindleEar 上传教程：  http://linearhelix.com/archives/150
 KindleEar 项目地址：https://github.com/cdhigh/KindleEar
 
 ---
-
-Kindle 伴侣 - 为静心阅读而生  
-http://kindlefere.com
